@@ -1,3 +1,3 @@
 # Let's talk about Weex
 
-[![Join the chat at https://gitter.im/weexteam/article](https://badges.gitter.im/weexteam/article.svg)](https://gitter.im/weexteam/article?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Gitter](https://img.shields.io/gitter/room/weexteam/cn.svg?maxAge=2592000)](https://gitter.im/weexteam) <sub>(English Gitter)</sub> [![Gitter](https://img.shields.io/gitter/room/weexteam/cn.svg?maxAge=2592000)](https://gitter.im/weexteam/cn) <sub>(Chinese 中文聊天室)</sub>
